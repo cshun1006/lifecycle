@@ -6,3 +6,4 @@ black shirt
 white boots
 git edit
 yellow cap
+stone bridge
